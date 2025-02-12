@@ -1,0 +1,170 @@
+body {
+    background-color: rgb(248, 248, 253);
+    text-indent: 20px;
+
+}
+
+.heading {
+    display: block;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 1px 0px 2px #070707;
+    font-family: 'Times New Roman', Times, serif;
+    border: #000000;
+    line-height: 100px;
+
+}
+
+.name {
+    display: block;
+    font-size: x-large;
+    text-shadow: 1px 0px 1px #000000;
+    word-spacing: 2px;
+    text-transform: capitalize;
+    text-indent: 20px;
+    line-height: 0px;
+}
+
+.email {
+    display: block;
+    font-size: large;
+    text-shadow: 1px 0px 1px #000000;
+    word-spacing: 2px;
+    text-transform: none;
+    text-indent: 20px;
+    line-height: 0px;
+}
+
+.mobile {
+    display: block;
+    font-size: large;
+    text-shadow: 1px 0px 1px #000000;
+    text-transform: capitalize;
+    word-spacing: 2px;
+    text-transform: none;
+    text-indent: 20px;
+    line-height: 0px;
+}
+
+hr {
+    border-top: 2px solid #000000;
+    width: 100%;
+}
+
+.Objective {
+    margin: auto;
+    width: 96%;
+
+    padding: 10px;
+    text-indent: 0px;
+
+}
+
+.h2 {
+    font-size: larger;
+    text-shadow: 0.5px 0px 0.5px #000000;
+    text-transform: capitalize;
+    text-decoration: solid;
+
+}
+
+.Skills {
+    font-size: x-large;
+    text-shadow: 0.5px 0px 0.5px #000000;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+.CADSoftware {
+    display: inline-block;
+    font-size: medium;
+    text-shadow: 0.5px 0px 0.5px #000000;
+    text-transform: none;
+    text-indent: 0px;
+    line-height: 0px;
+}
+
+.SimulationTools {
+    display: inline-block;
+    font-size: medium;
+    text-shadow: 0.5px 0px 0.5px #000000;
+    text-transform: none;
+    text-indent: 0px;
+    line-height: 0px;
+}
+
+.DataAnalysis {
+    display: inline-block;
+    font-size: medium;
+    text-shadow: 0.5px 0px 0.5px #000000;
+    text-transform: none;
+    text-indent: 0px;
+    line-height: 0px;
+}
+
+.Manufacturing {
+    display: inline-block;
+    font-size: medium;
+    text-shadow: 0.5px 0px 0.5px #000000;
+    text-transform: none;
+    text-indent: 0px;
+    line-height: 0px;
+}
+
+.MicrosoftOfficePackage {
+    display: inline-block;
+    font-size: medium;
+    text-shadow: 0.5px 0px 0.5px #000000;
+    text-transform: none;
+    text-indent: 0px;
+    line-height: 0px;
+}
+
+.DatabaseOperation {
+    display: inline-block;
+    font-size: medium;
+    text-shadow: 0.5px 0px 0.5px #000000;
+    text-transform: none;
+    text-indent: 0px;
+    line-height: 0px;
+}
+
+.Education {
+    font-size: larger;
+    text-shadow: 0.5px 0px 0.5px #000000;
+    text-transform: none;
+    text-decoration: none;
+}
+
+.Course {
+    font-size: medium;
+    text-shadow: 0.5px 0px 0.5px #000000;
+}
+
+.CollegeName {
+    font-size: medium;
+    text-indent: 50px;
+}
+
+.Projects {
+    font-size: larger;
+    text-shadow: 0.5px 0px 0.5px #000000;
+    text-transform: none;
+    text-decoration: underline;
+}
+
+.ProjectTitle {
+    font-size: medium;
+}
+
+.Achievements {
+    font-size: larger;
+    text-shadow: 0.5px 0px 0.5px #000000;
+    text-transform: none;
+    text-decoration: underline;
+}
+
+.Hobbies {
+    font-size: medium;
+    text-indent: 50px;
+}
